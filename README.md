@@ -26,7 +26,7 @@ Built with the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 - Desktop, Laptop
 <img width="2880" height="1320" alt="Output" src="https://github.com/user-attachments/assets/af220b33-f453-49ef-840c-913721bcf782" />
 
--Mobile, Tablet
+- Mobile, Tablet
 <img width="2213" height="1320" alt="Group 85" src="https://github.com/user-attachments/assets/1e0ced55-957e-4369-8bda-af67ff38c91b" />
 
 
