@@ -10,8 +10,7 @@ Built with the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 - 📚 Upload and manage stories dynamically  
 - 🔍 Search and filter stories by title, author, or category  
 - 🎨 Responsive and interactive UI  
-- 🔐 Secure authentication & authorization (JWT-based)  
-- 📊 Admin dashboard for managing content  
+- 📊 Admin for dynamically managing content  
 
 ---
 
